@@ -20,4 +20,6 @@ Skills: React, Express, NodeJS, MongoDB, Python3, Linux, OSINT
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arayofcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryansharma1323/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arayofcode)  
 
 
-PS: Check this amazing [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) I used
+PS: Check these amazing tools I used for my Readme page:
+- [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) by Arturs Smirnovs
+- [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra 
