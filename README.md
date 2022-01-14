@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">I'm a senior at Ashoka University, India. My areas of interest are Cybersecurity, Data Privacy, Influence Operations, Surveillance and Misinformation.</h3>
+### Aryan
+#### SWE, Cybersecurity, Privacy, Misinformation, Influence Operations and Organized Cybercrimes
+Hi, I'm a senior CS major at Ashoka University, interning at [Safe Security](https://safe.security). I really like OSINT and play [GeoGuessr](https://www.geoguessr.com/user/60c1bbf3dcd6370001911280) occasionally: in this game, you land on a place and have to find it on Google maps, super interesting stuff! While playing this game, I began marking small businesses on Google maps. One of them has been viewed ~1500 times in 3 months! 
 
-- 🌱 I’m currently learning **MERN Stack and Web Security**
+This aside, I'm Placements Coordinator at my university, working with the library team, and have been a part of the Student Government for three years. 
 
-- 📫 How to reach me **aryansharma1323@gmail.com**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arayofcode)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arayofcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arayofcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryansharma1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryansharma1323" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Skills: React, Express, NodeJS, MongoDB, Python3, Linux, OSINT
 
+- 🌱 I’m currently learning Fullstack Web dev, Cloud and Web Security  
+- 👯 I’m looking to collaborate on projects related to Misinformation, Influence Operations, Surveillance, or Organized Cybercrime   
+- 🤔 I’m looking for help with how I can contribute to  
+- 📫 How to reach me: [Email](mailto:aryansharma1323@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aryansharma1323/) 
+- ⚡ Fun fact: I check my emails a lot more than my calls or messages 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arayofcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryansharma1323/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arayofcode)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arayofcode)](https://github.com/ryo-ma/github-profile-trophy)
