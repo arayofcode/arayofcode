@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center"> SWE, Cybersecurity, Privacy, Misinformation, Influence Operations and Organized Cybercrimes </h3>
+
 Hi, I'm a senior CS major at Ashoka University, interning at [Safe Security](https://safe.security). I really like OSINT and play [GeoGuessr](https://www.geoguessr.com/user/60c1bbf3dcd6370001911280) occasionally: in this game, you land on a place and have to find it on Google maps, super interesting stuff! While playing this game, I began marking small businesses on Google maps. One of them has been viewed ~1500 times in 3 months! 
 
 This aside, I'm Placements Coordinator at my university, working with the library team, and have been a part of the Student Government for three years. 
