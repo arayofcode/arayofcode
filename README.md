@@ -5,7 +5,7 @@ Hi, I'm a senior CS major at Ashoka University, interning at [Safe Security](htt
 This aside, I'm Placements Coordinator at my university, working with the library team, and have been a part of the Student Government for three years. 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arayofcode)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arayofcode&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Skills: React, Express, NodeJS, MongoDB, Python3, Linux, OSINT
