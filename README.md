@@ -11,9 +11,8 @@ This aside, I'm Placements Coordinator at my university, working with the librar
 
 Skills: React, Express, NodeJS, MongoDB, Python3, Linux, OSINT
 
-- 🌱 I’m currently learning Fullstack Web dev, Cloud and Web Security  
+- 🌱 I’m currently improving my knowledge of Full Stack web dev and web security
 - 👯 I’m looking to collaborate on projects related to Misinformation, Influence Operations, Surveillance, or Organized Cybercrime   
-- 🤔 I’m looking for help with how I can contribute to prevent misinformation, surveillance, influence operations or cybercrime 
 - 📫 How to reach me: [Email](mailto:aryansharma1323@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aryansharma1323/) 
 - ⚡ Fun fact: I check my emails a lot more than my calls or messages 
 
