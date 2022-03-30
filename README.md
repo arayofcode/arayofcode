@@ -1,7 +1,7 @@
 <h1 align="center">Aryan</h1>
 <h3 align="center"> SWE, Cybersecurity, Privacy, Misinformation, Influence Operations and Organized Cybercrimes </h3>
 
-Hi, I'm a senior CS major at Ashoka University, interning at [Safe Security](https://safe.security). I really like OSINT and play [GeoGuessr](https://www.geoguessr.com/user/60c1bbf3dcd6370001911280) occasionally: in this game, you land on a place and have to find it on Google maps, super interesting stuff! While playing this game, I began marking small businesses on Google maps. One of them has been viewed ~1500 times in 3 months! 
+Hi, I'm a senior CS major at Ashoka University, interning at [Safe Security](https://safe.security). I really like OSINT and play [GeoGuessr](https://www.geoguessr.com/user/60c1bbf3dcd6370001911280) occasionally. While playing this game, I began marking small businesses on Google maps. One of them has been viewed ~3200 times! 
 
 This aside, I'm Placements Coordinator at my university, working with the library team, and have been a part of the Student Government for three years. 
 
@@ -11,8 +11,7 @@ This aside, I'm Placements Coordinator at my university, working with the librar
 
 Skills: React, Express, NodeJS, MongoDB, Python3, Linux, OSINT
 
-- 🌱 I’m currently improving my knowledge of Full Stack web dev and web security
-- 👯 I’m looking to collaborate on projects related to Misinformation, Influence Operations, Surveillance, or Organized Cybercrime   
+- 🌱 I’m currently learning Full Stack Web Dev and Web Security
 - 📫 How to reach me: [Email](mailto:aryansharma1323@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aryansharma1323/) 
 - ⚡ Fun fact: I check my emails a lot more than my calls or messages 
 
