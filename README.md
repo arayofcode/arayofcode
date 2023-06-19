@@ -26,6 +26,5 @@ If you have any questions or need help with a security issue, don't hesitate to 
 ![snake.gif](https://github.com/arayofcode/arayofcode/blob/output/github-contribution-grid-snake.gif)
 
 PS: Check these amazing tools I used for my Readme page:
-- [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) by Arturs Smirnovs
 - [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra 
 - [Snake Contribution Graph](https://github.com/Platane/snk) by Arthur Brongniart
