@@ -17,7 +17,7 @@ Expertise:
 - Python, GoLang, PHP, Javascript
 
 Let's Connect
-I'm always interested in meeting new people, discussing cybersecurity, and exploring potential collaborations. If you'd like to chat, you can reach me on [LinkedIn](your LinkedIn URL) or [Twitter](your Twitter URL).
+I'm always interested in meeting new people, discussing cybersecurity, and exploring potential collaborations. If you'd like to chat, you can reach me on [LinkedIn](https://linkedin.com/in/aryansharma1323).
 
 If you have any questions or need help with a security issue, don't hesitate to open an issue in one of my repositories, and I'll do my best to help!
 
