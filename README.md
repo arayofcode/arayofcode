@@ -21,7 +21,7 @@ I'm always interested in meeting new people, discussing cybersecurity, and explo
 
 If you have any questions or need help with a security issue, don't hesitate to open an issue in one of my repositories, and I'll do my best to help!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arayofcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryansharma1323/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arayofcode)  
+[<img height="40" width="40" src="https://cdn.simpleicons.org/github/181717/fff"/>](https://github.com/arayofcode) [<img src='https://cdn.simpleicons.org/linkedin/0a66c2/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryansharma1323/)  [<img src='https://cdn.simpleicons.org/x/000/fff' alt='twitter' height='40'>](https://twitter.com/arayofcode)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arayofcode/arayofcode/blob/output/github-snake-dark.svg" />
