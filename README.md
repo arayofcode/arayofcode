@@ -23,7 +23,11 @@ If you have any questions or need help with a security issue, don't hesitate to 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arayofcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryansharma1323/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arayofcode)  
 
-![snake.gif](https://github.com/arayofcode/arayofcode/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arayofcode/arayofcode/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/arayofcode/arayofcode/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 PS: Check these amazing tools I used for my Readme page:
 - [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra 
