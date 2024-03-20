@@ -1,10 +1,10 @@
 # Hello, there! 👋
 
-I'm Aryan, a Security Engineer at Gojek, one of Southeast Asia's leading super apps. My work primarily revolves around DevSecOps. I'm deeply passionate about privacy and designing secure systems, always striving to look at things through a privacy lens, and try to keep myself updated with new laws around privacy. 
+I'm Aryan, a Security Engineer at Gojek. My work primarily revolves around DevSecOps. I'm deeply passionate about privacy and designing secure systems, always striving to look at things through a privacy lens, and try to keep myself updated with new laws around privacy. 
 
 As a staunch believer in privacy, I view laws, technology and security through a privacy-focused perspective. 
 
-My background in DevSecOps and Cloud Security allows me to work on an array of exciting projects. I've developed tools for Software Composition Analysis (SCA) and secret scanning, contributing to a more secure digital environment at Gojek.
+My background in Software Engineering, DevSecOps and Cloud Security allows me to work on an array of exciting projects. I've developed tools for Software Composition Analysis (SCA) and secret scanning, contributing to a more secure digital environment at Gojek.
 
 Outside of work, I have a keen interest in Open Source Intelligence (OSINT) and occasionally enjoy GeoGuessr!
 
@@ -14,12 +14,11 @@ Expertise:
 - GCP
 - Web Application Firewall
 - Cryptography
-- Python, GoLang, PHP, Javascript
+- Python, Golang, PHP, Javascript
 
-Let's Connect
-I'm always interested in meeting new people, discussing cybersecurity, and exploring potential collaborations. If you'd like to chat, you can reach me on [LinkedIn](https://linkedin.com/in/aryansharma1323).
+I'm always interested in meeting new people, learning about them, and exploring domains beyond tech. If you'd like to chat, you can reach me on [LinkedIn](https://linkedin.com/in/aryansharma1323).
 
-If you have any questions or need help with a security issue, don't hesitate to open an issue in one of my repositories, and I'll do my best to help!
+If you have any questions or need help with a security issue in my projects, please don't hesitate to open an issue in one of my repositories, and I'll do my best to help!
 
 [<img height="40" width="40" src="https://cdn.simpleicons.org/github/181717/fff"/>](https://github.com/arayofcode) [<img src='https://cdn.simpleicons.org/linkedin/0a66c2/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryansharma1323/)  [<img src='https://cdn.simpleicons.org/x/000/fff' alt='twitter' height='40'>](https://twitter.com/arayofcode)
 
