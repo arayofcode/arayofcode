@@ -1,20 +1,20 @@
-# Hello, there! 👋
+# Helloo!
 
-I'm Aryan, a Security Engineer at Gojek. My work primarily revolves around DevSecOps. I'm deeply passionate about privacy and designing secure systems, always striving to look at things through a privacy lens, and try to keep myself updated with new laws around privacy. 
+I'm Aryan, a Security Engineer by profession, problem solver at heart. Currently working in DevSecOps at [GoTo Company](https://gotocompany.com/), I have built and implemented our shift-left capabilities within all group companies. 
 
-As a staunch believer in privacy, I view laws, technology and security through a privacy-focused perspective. 
+My team works on a vast array of projects using diverse set of tools and technologies. Currently, I use Golang, with occasional Python, and have worked with Javascript frameworks and PHP in the past. As Security Engineers, we own our projects end-to-end, and are responsible for building, testing, deploying and monitoring our projects, and hence, I keep learning more around Software Engineering, Security Engineering, DevOps, SRE, and Testing.
 
-My background in Software Engineering, DevSecOps and Cloud Security allows me to work on an array of exciting projects. I've developed tools for Software Composition Analysis (SCA) and secret scanning, contributing to a more secure digital environment at Gojek.
-
-Outside of work, I have a keen interest in Open Source Intelligence (OSINT) and occasionally enjoy GeoGuessr!
+Being kinda-sorta curious, I take interest in topics beyond my profession and love spending time learning more about them. I also love Open Source Intelligence (OSINT) and occasionally enjoy GeoGuessr. Here are some areas I've taken interest in recently:
+- Finance
+- Entrepreneurship (no plans of founding startups, but entrepreneurship is definitely very interesting)
+- Digital Public Infrastructures
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arayofcode&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Expertise:
-- GCP
-- Web Application Firewall
+Tools and Technologies:
+- Google Cloud (Google Cloud Certified Professional Cloud Security Engineer)
 - Cryptography
-- Python, Golang, PHP, Javascript
+- Golang, Python, PHP, Javascript
 
 I'm always interested in meeting new people, learning about them, and exploring domains beyond tech. If you'd like to chat, you can reach me on [LinkedIn](https://linkedin.com/in/aryansharma1323).
 
