@@ -6,7 +6,7 @@ I'm Aryan, also go by Ray. I'm an engineer, building at intersection of product 
 - Frontend
 - Infra
 
-I'm currently leading Product Research at [Blueflag Security](https://www.blueflagsecurity.com/) where my work is largely building customer facing features, customer engagement, and owning product security of the company. Before this, I was a DevSecOps Engineer at [Gojek (GoTo Group)](https://www.gotocompany.com/), building internal security tooling used across ~5000 engineers, and 60k+ repositories.
+I'm currently a Product Engineer and lead research at [Blueflag Security](https://www.blueflagsecurity.com/) - building customer facing features, customer engagement, and owning product security of the company. Before this, I was a DevSecOps Engineer at [Gojek (GoTo Group)](https://www.gotocompany.com/), building internal security tooling used across ~5000 engineers, and 60k+ repositories.
 
 I occasionally write about what I learn at [arayofcode.com](arayofcode.com). In 2025, I gave five talks at an intersection of security and PostgreSQL/ Web Applications. 
 
@@ -14,7 +14,7 @@ I occasionally write about what I learn at [arayofcode.com](arayofcode.com). In 
 
 ### [Footprint](https://github.com/arayofcode/footprint)
 
-Impact analysis of your OSS contributions. Most tools show *how much* you contributed. Footprint scores your contributions based on contribution type (PR, commit, code review, issue), code merges, repetitive activity, repo popularity, and generates portfolio-ready artifacts. Here are is my scorecard:
+Impact analysis of your OSS contributions. Most tools show *how much* you contributed. Footprint scores your contributions based on contribution type (PR, commit, code review, issue), code merges, repetitive activity, repo popularity, and generates portfolio-ready artifacts. Here is my scorecard:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arayofcode/arayofcode/blob/footprint-output/card-extended.svg" />
