@@ -6,7 +6,7 @@ I'm Aryan, also go by Ray. I'm an engineer, building at intersection of product 
 - Frontend
 - Infra
 
-I'm currently leading Product Research at [Blueflag Security](https://www.blueflagsecurity.com/) where my work is largely building customer facing features, customer engagement, and owning product security of the company. Before this, I was a DevSecOps Engineer at [Gojek (GoTo Group)](https://www.gotocompany.com/), building internal security tooling used across 7000-9000 engineers, and 60k+ repositories.
+I'm currently leading Product Research at [Blueflag Security](https://www.blueflagsecurity.com/) where my work is largely building customer facing features, customer engagement, and owning product security of the company. Before this, I was a DevSecOps Engineer at [Gojek (GoTo Group)](https://www.gotocompany.com/), building internal security tooling used across ~5000 engineers, and 60k+ repositories.
 
 I occasionally write about what I learn at [arayofcode.com](arayofcode.com). In 2025, I gave five talks at an intersection of security and PostgreSQL/ Web Applications. 
 
@@ -25,7 +25,7 @@ Impact analysis of your OSS contributions. Most tools show *how much* you contri
 ## Things I've Built
 
 - **Commit Journey @ Blueflag Security**: End-to-end traceability of a commit from push -> PR -> workflows -> container images.
-- **PDG Prediction Service @ Gojek**: Self-initiated project - finding owners at 9000-engineer scale took hours. This service mapped contributor history, permissions and other analytics to line of manager data. The prediction engine cut time to find owners by hours.
+- **PDG Prediction Service @ Gojek**: Self-initiated project - finding owners at 5000-engineer scale took hours. This service mapped contributor history, permissions and other analytics to line of manager data. The prediction engine cut time to find owners by hours.
 - **SCA @Gojek**: In-house dependency analysis tool built using open-source tools as a fresh grad. Replaced ~$400k-600k worth of commercial tooling for GoTo Group.
 
 
