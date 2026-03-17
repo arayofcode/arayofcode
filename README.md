@@ -17,9 +17,9 @@ I occasionally write about what I learn at [arayofcode.com](arayofcode.com). In 
 Impact analysis of your OSS contributions. Most tools show *how much* you contributed. Footprint scores your contributions based on contribution type (PR, commit, code review, issue), code merges, repetitive activity, repo popularity, and generates portfolio-ready artifacts. Here is my scorecard:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arayofcode/arayofcode/blob/footprint-output/card-extended.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/arayofcode/arayofcode/blob/footprint-output/card-extended.svg" />
-  <img alt="Footprint card" src="https://github.com/arayofcode/arayofcode/blob/footprint-output/card-extended.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arayofcode/arayofcode/footprint-output/card-extended.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arayofcode/arayofcode/footprint-output/card-extended.svg" />
+  <img alt="Footprint card" src="https://raw.githubusercontent.com/arayofcode/arayofcode/footprint-output/card-extended.svg" />
 </picture>
 
 ## Things I've Built
